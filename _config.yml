@@ -24,6 +24,7 @@ url                      : "https://aracal6.gitee.io" # the base hostname & prot
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "aracal6/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "500x300.png"
+affiliation              : "中山大学南方学院 <a href = 'http://newmedia.nfu.edu.cn/zh/'>网络与新媒体专业 期末项目</a> "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
