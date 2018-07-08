@@ -1,7 +1,7 @@
  ---
  layout: archive
  permalink: /design/
- title: "Design"
+ title: "以分类展示文章"
  author_profile: true
  ---
 {% include base_path %}
