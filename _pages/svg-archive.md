@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "SVG"
+title: "svg制作"
 permalink: /svg/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
@@ -10,4 +10,3 @@ author_profile: false
 {% for post in site.svg %}
   {% include archive-single.html %}
 {% endfor %}
-\ No newline at end of file
