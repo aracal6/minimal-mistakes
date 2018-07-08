@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt_aracal6" # "air", "aqua", "contrast", "dark", "
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "使用Minimal Mistakes主题的Jekyll网站。"
+title                    : "Hey say yep website"
 title_separator          : "："
 name                     : "戴嘉俊"
 description              : "使用Jekyll搭建的网站"
-url                      : https://aracal6.gitee.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://aracal6.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "aracal6/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "500x300.png"
@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "戴嘉俊"
   avatar           : "/images/头像.jpg"
-  bio              : "广告位招租"
+  bio              : "on call 24小时"
   location         : "广州"
   email            : "dai944481062@qq.com"
-  uri              :
+  uri              : "https://gitee.com/aracal6"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
