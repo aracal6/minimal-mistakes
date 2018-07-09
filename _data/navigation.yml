@@ -15,3 +15,25 @@ main:
   
   - title: "About"
     url: /about/
+
+docs:
+  - title: svg制作
+    children:
+      - title: ""
+        url: http://nfunm107.gitee.io/minimal-mistakes/svg/2018-06-11-svg-history/
+      - title: "svg第二篇"
+        url: https://aracal6.gitee.io/minimal-mistakes/svg/2018-7-10-svg%E7%AC%AC%E4%BA%8C%E7%AF%87/
+  
+  - title: 平面设计
+    children:
+      - title: "平面设计"
+        url: https://aracal6.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-01/
+      - title: "平面设计"
+        url: https://aracal6.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-02/
+        
+  - title: 界面设计
+    children:
+      - title: "界面设计"
+        url: https://aracal6.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-01/
+      - title: "界面设计"
+        url: https://aracal6.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-02/

@@ -22,4 +22,3 @@ SVG它有以下优势：
 ##  浏览器支持度
 
 SVG现在的浏览器支持度也相当不错，Android 2.3以上和IE9以上都支持（见[caniuse.com](http://caniuse.com/ #search=svg)）。 
-S
