@@ -28,14 +28,16 @@ docs:
     children:
       - title: "关于添加背景页头"
         url: https://aracal6.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-01/
-      - title: "更改页面主题色调"
+      - title: "关于更改页面主题色调"
         url: https://aracal6.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-02/
       - title: "关于字体增加中文字形与修改衬体格式"
         url: https://aracal6.gitee.io/minimal-mistakes/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/graphic-03/  
         
   - title: 界面设计
     children:
-      - title: "界面设计"
+      - title: "关于界面设计"
         url: https://aracal6.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-01/
-      - title: "界面设计"
+      - title: "关于添加侧边导航栏"
         url: https://aracal6.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-02/
+      - title: "关于导航栏"
+        url: https://aracal6.gitee.io/minimal-mistakes/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/interface-03/
