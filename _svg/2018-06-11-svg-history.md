@@ -8,17 +8,24 @@ sidebar:
 {% include base_path %}
 
 {% include toc title="目录" %}
+  
 
-SVG允许在代码中使用矢量点来描述二维图像。  
+### SVG简介  
 
-## SVG的优势  
+> 可缩放矢量图形是基于可扩展标记语言（标准通用标记语言的子集），用于描述二维矢量图形的一种图形格式。它由万维网联盟制定，是一个开放标准。
 
-SVG它有以下优势：
-- 被广泛应用到图 标、线条图和图表的表示中，是因为SVG允许在代码中使用矢量点来描述二维图像。
-- SVG是W3C的规范， 见[SVG1.1规范中的介绍](https://www.w3.org/TR/SVG11/intro.html)  
-- 因为矢量图是使用相对点来保存数据的，所以可以缩放到任意大小而不会损失清晰度  
-- 此外， 由于SVG仅仅保存矢量点，相比于同等尺寸的JPEG、GIF和PNG，其文件大小更小
+### SVG优势
 
-##  浏览器支持度
+- SVG 可被非常多的工具读取和修改（比如记事本）
+- SVG 与 JPEG 和 GIF 图像比起来，尺寸更小，且可压缩性更强。
+- SVG 是可伸缩的
+- SVG 图像可在任何的分辨率下被高质量地打印
 
-SVG现在的浏览器支持度也相当不错，Android 2.3以上和IE9以上都支持（见[caniuse.com](http://caniuse.com/ #search=svg)）。 
+### 关于svg的制作
+
+- width、height能够调整svg图片的大小
+- transition能够调整svg动图的响应时间
+
+![svg代码]({{site.url}}{{site.baseurl}}/images/svg代码.png)
+
+ 
