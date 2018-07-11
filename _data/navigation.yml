@@ -19,10 +19,14 @@ main:
 docs:
   - title: svg制作
     children:
-      - title: "svg第一篇"
+      - title: "关于svg"
         url: https://aracal6.gitee.io/minimal-mistakes/svg/2018-06-11-svg-history/
-      - title: "svg第二篇"
+      - title: "svg图片制作"
         url: https://aracal6.gitee.io/minimal-mistakes/svg/2018-7-10-svg%E7%AC%AC%E4%BA%8C%E7%AF%87/
+      - title: "svg图片制作02"
+        url: https://aracal6.gitee.io/minimal-mistakes/svg/2018-7-10-svg%E7%AC%AC%E4%B8%89%E7%AF%87/
+      - title: "svg图片制作03"
+        url: https://aracal6.gitee.io/minimal-mistakes/svg/2018-7-10-svg%E7%AC%AC%E5%9B%9B%E7%AF%87/
   
   - title: 平面设计
     children:

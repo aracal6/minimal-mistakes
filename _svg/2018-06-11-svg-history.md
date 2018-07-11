@@ -1,5 +1,5 @@
 ---
-title:  "svg第一篇"
+title:  "关于svg"
 modified: 2018-06-12T16:03:49-04:00
 sidebar:
   nav: "docs"
@@ -24,7 +24,7 @@ sidebar:
 ### 关于svg的制作
 
 - width、height能够调整svg图片的大小
-- transition能够调整svg动图的属性
+- transition能够调整svg动图的各项属性
 
 ![svg代码]({{site.url}}{{site.baseurl}}/images/svg代码.png)
 
