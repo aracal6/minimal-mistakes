@@ -24,7 +24,7 @@ sidebar:
 ### 关于svg的制作
 
 - width、height能够调整svg图片的大小
-- transition能够调整svg动图的响应时间
+- transition能够调整svg动图的属性
 
 ![svg代码]({{site.url}}{{site.baseurl}}/images/svg代码.png)
 
